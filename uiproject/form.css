@@ -1,0 +1,24 @@
+#form
+{
+border-radius: 30px;
+margin-top:50px;
+border-color:bisque;
+border-style:solid;
+border-width: 5px;
+color:chocolate;
+padding-right:100px;
+padding-left: 100px;
+padding-top:120px;
+padding-bottom:120px;
+text-align: center;
+display:inline-block;
+box-shadow: 25px 25px 25px gray;
+opacity:0.5;
+background-color: teal;
+}
+h1
+{
+    color:red;
+    
+}
+
